@@ -253,7 +253,7 @@ Located at: `default/default_measles_routing.json`
             }
         ]
     },
-    "measles_contextual_value_sets": {
+    "contextual_value_sets": {
         "clinical_context": [
             {
                 "name": "Measles (History of Disease) (SNOMED)",

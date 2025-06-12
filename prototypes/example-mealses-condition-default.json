@@ -1,7 +1,7 @@
 {
     "uuid": "3234-AEFB-5678-9ABC-DEF01234568",
     "name": "Measles Condition",
-    "type": "base_routing_rule",
+    "type": "BASE-CONDITION",
     "common_name": "measles.cste.org",
     "description": "Measles Condition - US Default",
     "timliness_threshhold_days": 7,
@@ -126,7 +126,7 @@
             }
         ]
     },
-    "measles_contextual_value_sets": {
+    "contextual_value_sets": {
         "clinical_context": [
             {
                 "name": "Measles (History of Disease) (SNOMED)",
