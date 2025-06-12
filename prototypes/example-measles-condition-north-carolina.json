@@ -1,0 +1,29 @@
+{
+    "uuid": "3234-AEFB-5678-9ABC-DEF01234568",
+    "name": "Measles Condition Routing for NC Department of Public Health",
+    "type": "custom_routing_rule",
+    "common_name": "measles.dph.ncdhhs.gov",
+    "description": "Routing for the condition Measles for North Carolina Department of Public Health",
+    "timliness_threshhold_days": 7,
+    "confirmed_recipients": [
+        "FQDN|dph.ncdhhs.gov",
+        "FQDN|vdh.virginia.gov",
+        "FQDN|health.tn.gov",
+        "FQDN|dph.sc.gov",
+        "FQDN|tn.gov"
+    ],
+    "suspected_recipients": [
+        "FQDN|dph.ncdhhs.gov",
+        "FQDN|vdh.virginia.gov",
+        "FQDN|health.tn.gov",
+        "FQDN|dph.sc.gov",
+        "FQDN|tn.gov"
+    ],
+    "tested_for_recipients": [
+        "FQDN|dph.ncdhhs.gov",
+        "FQDN|vdh.virginia.gov",
+        "FQDN|health.tn.gov",
+        "FQDN|dph.sc.gov",
+        "FQDN|tn.gov"
+    ]
+}
